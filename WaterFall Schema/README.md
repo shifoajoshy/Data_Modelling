@@ -1,4 +1,4 @@
-# Waterfall Schema Data Modeling in Power BI
+# Waterfall schema approach data Modeling in Power BI
 
 ## Project Overview
 
@@ -67,22 +67,5 @@ To create an optimized data model in Power BI, ensuring efficient data analysis 
   - Performed data validation to ensure accuracy and completeness of the model.
   - Tested model performance and optimized query execution for faster data retrieval.
 
-## Skill Utilized
-
-- Data Segregation
-- Fact and Dimension Tables
-- Power BI
-- Data Type Correction
-- Schema Building
-- Waterfall Approach
-- Dynamic Date Table
-- M Language
-- Parameters
-- Cardinality Reduction
-- Data Modeling Best Practices
-- Data Validation
-- Query Optimization
-
----
 
 This README provides an overview of the steps and objectives involved in designing and implementing an efficient data model in Power BI using a Waterfall schema approach.
