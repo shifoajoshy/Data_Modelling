@@ -67,5 +67,9 @@ To create an optimized data model in Power BI, ensuring efficient data analysis 
   - Performed data validation to ensure accuracy and completeness of the model.
   - Tested model performance and optimized query execution for faster data retrieval.
 
+    ![Waterfall Schema](https://github.com/user-attachments/assets/9a1e084c-f362-483b-bf7d-d645125ad6f7)
+    ![Data Transformation](https://github.com/user-attachments/assets/47d2c3b6-23bb-4ff4-a654-0e10ca593a76)
+    
+
 
 This README provides an overview of the steps and objectives involved in designing and implementing an efficient data model in Power BI using a Waterfall schema approach.
